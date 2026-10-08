@@ -80,8 +80,8 @@
     <td align="center" width="20%"><b>Blender</b><br><sub>3Dモデリング</sub></td>
     <td align="center" width="20%"><b>Substance Painter</b><br><sub>テクスチャ作成</sub></td>
     <td align="center" width="20%"><b>CLIP STUDIO PAINT</b><br><sub>ペイント</sub></td>
-    <td align="center" width="20%"><b>Unity</b><br><sub>ゲームエンジン</sub></td>
-    <td align="center" width="20%"><b>Warudo</b><br><sub>配信ソフト</sub></td>
+    <td align="center" width="20%"><b>Unity</b><br><sub>見栄えのセッティング</sub></td>
+    <td align="center" width="20%"><b>Warudo</b><br><sub>ワールド上の最終確認</sub></td>
   </tr>
 </table>
 
