@@ -56,6 +56,56 @@
 
 <br> ==アドオン==
 
+## 標準同梱・公式Extensions（無料）
 
-あとで書く
+| アドオン名 | 用途 |
+|---|---|
+| Node Wrangler | シェーダーノード作業の効率化（Ctrl+Shift+クリックでプレビュー、テクスチャ一括接続など） |
+| LoopTools | メッシュの整形（Circle、Flatten、Bridge、Relax など） |
+| Extra Objects | 追加プリミティブ（歯車、パイプ、ダイヤなど） |
+| Bool Tool | ブーリアン操作を簡単に実行 |
+| F2 | F キーでの面作成を強化 |
+| Rigify | 人型などのリグを自動生成 |
+| Import Images as Planes | 画像を板ポリとして読み込み（リファレンス・背景用） |
+| Copy Attributes Menu | オブジェクト間で属性・変形をコピー |
+| Cell Fracture | オブジェクトの破砕 |
+| Archimesh | 建築パーツ（壁・ドア・窓など）の作成 |
+| Magic UV | UV編集の補助機能 |
+| Animall | シェイプキーや頂点属性のアニメーション |
+| Grease Pencil Tools | グリースペンシル作業の補助 |
+| Align Tools | オブジェクトの整列 |
+| Auto Mirror | ミラーモデリングの簡略化 |
+| Pie Menus Official | パイメニューで操作を高速化 |
+
+## 外部の無料アドオン
+
+| アドオン名 | 用途 |
+|---|---|
+| BlenderKit | モデル・マテリアル・HDRI などのアセットライブラリ |
+| MACHIN3tools | モデリング全般のワークフロー改善 |
+| Sverchok | ノードベースのパラメトリックモデリング |
+| Texel Density Checker | テクセル密度の確認・統一 |
+| mmd_tools | MMD（PMX/VMD）データの読み込み・編集 |
+| VRM Add-on for Blender | VRMの読み込み・編集・書き出し |
+| CATS Blender Plugin | VRChat 向けアバター調整 |
+
+## 有料アドオン
+
+| アドオン名 | 用途 |
+|---|---|
+| Hard Ops / Boxcutter | ハードサーフェスモデリングの高速化 |
+| Auto-Rig Pro | 高機能なリギング・リターゲット |
+| Quad Remesher | 高品質な自動リトポロジー |
+| UVPackmaster | 高性能なUVパッキング |
+| Flip Fluids | 高品質な流体シミュレーション |
+| Photographer | カメラ・ライティング・露出設定の補助 |
+| Poliigon | テクスチャ・モデルの素材ライブラリ連携 |
+
+## 導入のコツ
+
+- 入れすぎると起動や動作が重くなるため、**使うものだけ有効化**する
+- Blenderのバージョンによって対応状況が異なるため、**導入前に対応バージョンを確認**する
+- 有料アドオンの価格や対応状況は変わることがあるので、公式サイトで最新情報を確認する
+
+
 
