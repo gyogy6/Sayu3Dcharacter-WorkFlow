@@ -1,12 +1,10 @@
-リンク：https://gyogy6.github.io/Sayu3Dcharacter-WorkFlow/
-
 <div align="center">
 
 # キャラクター制作ガイド
 
 **ワークフローと使用ツールの保管記録**
 
-[![Website](https://img.shields.io/badge/Website-公開ページを開く-6A4DE0?style=for-the-badge)](https://ユーザー名.github.io/リポジトリ名/)
+[![Website](https://img.shields.io/badge/Website-公開ページを開く-6A4DE0?style=for-the-badge)](https://gyogy6.github.io/Sayu3Dcharacter-WorkFlow/)
 
 [はじめに](#はじめに) ｜ [ワークフロー](#ワークフロー) ｜ [メインツール](#メインツール) ｜ [サブツール](#サブツール) ｜ [マインド](#マインド)
 
